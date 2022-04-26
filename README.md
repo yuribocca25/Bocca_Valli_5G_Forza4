@@ -1,2 +1,1 @@
-# Bocca_Valli_5G_DinoGame
-Bocca e Valli realizzano il gioco DinoGame con implementazione nodejs
+Bocca e Valli realizzano il gioco DinoGame, consiste nel saltare degli ostacoli premendo il tasto sinistro del mouse, il progetto verra sucessivamente implementato con client socket e server

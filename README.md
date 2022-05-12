@@ -1,1 +1,1 @@
-Bocca e Valli realizzano il gioco DinoGame, consiste nel saltare degli ostacoli premendo il tasto sinistro del mouse, il progetto verra sucessivamente implementato con client socket e server
+Bocca e Valli realizzano il gioco DinoGame, consiste nel saltare degli ostacoli premendo il tasto sinistro del mouse, quando ci si scontra con l'ostacolo il gioco termina e appare il messeggio con il punteggio effettuato. Il gioco è implementato con client e server
